@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "SmartPhone",
+      "createAt": "12345",
+      "updateAt": "0987"
+    },
+    {
+      "id": 2,
+      "name": "Personal Computer",
+      "createAt": "6789",
+      "updateAt": "54646"
+    },
+    {
+      "name": "Laptoppp",
+      "createdAt": 1695590023286,
+      "updatedAt": 1695590023286,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "IPHONE X",
+      "createAt": "12345",
+      "updateAt": "0987",
+      "categoryId": "1",
+      "price": "1000$"
+    },
+    {
+      "id": 1,
+      "name": "IPHONE 12 PRO MAX",
+      "createAt": "12345",
+      "updateAt": "0987",
+      "categoryId": "1",
+      "price": "1200$"
+    },
+    {
+      "id": 1,
+      "name": "SAMSUNG ZENO PC SUPER-865",
+      "createAt": "8965",
+      "updateAt": "10987",
+      "categoryId": "2",
+      "price": "99050$"
+    }
+  ],
+  "profile": {
+    "name": "Juan Shayuki"
+  }
+}
